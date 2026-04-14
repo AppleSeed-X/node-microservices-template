@@ -25,7 +25,7 @@
     "@micro/logger": "^1.0.0",
     "@micro/places-config": "^1.0.0",
     "@micro/utils": "^1.0.0",
-    "axios": "^0.19.2"
+    "axios": "^1.15.0"
   },
   "devDependencies": {
     "@types/node": "^14.0.13",
